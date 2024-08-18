@@ -50,7 +50,7 @@ When prompted, enter the URL of the file you want to upload to your R2 bucket.
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/CloudflareR2Streamer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rkrahulkhorwal/CloudflareR2Streamer/issues).
 
 ## License
 
