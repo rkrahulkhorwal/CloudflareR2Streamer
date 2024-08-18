@@ -20,7 +20,7 @@ CloudflareR2Streamer is a Python utility for streaming file uploads to Cloudflar
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/CloudflareR2Streamer.git
+   git clone https://github.com/rkrahulkhorwal/CloudflareR2Streamer.git
    cd CloudflareR2Streamer
    ```
 
